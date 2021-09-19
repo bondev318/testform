@@ -1,0 +1,112 @@
+/* CSS cho trang đăng nhập */
+.icon-img{
+    margin-left: 100px;
+    width: 70px;
+    height: 70px;
+}
+.login-form3hq{
+    width: 100%;
+    max-width: 330px;
+    padding: 150px;
+    margin: auto;
+    height: 100%;
+    font-family: sans-serif;
+}
+.btn-lg-sdt{
+    color: black;
+    margin-top: 20px;
+    border: 2px solid  #D8D8D8;
+    border-radius: 24px;
+    padding-left: 80px;
+    padding-right: 60px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.btn-lg-sdt:hover{
+   background-color:#D8D8D8
+}
+.btn-lg-gg{
+    color: black;
+    border: 2px solid  #D8D8D8;
+    margin-top: 10px;
+    border-radius: 24px;
+    padding-left: 80px;
+    padding-right: 75px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.btn-lg-gg:hover{
+   background-color:#D8D8D8
+}
+.text-tk{
+    text-align: center;
+    margin-top: 20px;
+    padding-right: 30px;
+}
+.link-dk{
+    margin-left: 10px;
+    font-weight:bold ;
+    text-decoration: none;
+    color: tomato;
+}
+/* CSS cho trang đăng ký */
+.icon-img{
+    margin-left: 100px;
+    width: 70px;
+    height: 70px;
+}
+.signup-form3hq{
+    width: 100%;
+    max-width: 330px;
+    padding: 150px;
+    margin: auto;
+    height: 100%;
+    font-family: sans-serif;
+}
+.btn-sg-sdt{
+    color: black;
+    margin-top: 20px;
+    border: 2px solid  #D8D8D8;
+    border-radius: 24px;
+    padding-left: 80px;
+    padding-right: 60px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.btn-sg-sdt:hover{
+   background-color:#D8D8D8
+}
+.btn-sg-gg{
+    color: black;
+    border: 2px solid  #D8D8D8;
+    margin-top: 10px;
+    border-radius: 24px;
+    padding-left: 80px;
+    padding-right: 75px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+}
+.btn-sg-gg:hover{
+   background-color:#D8D8D8
+}
+.text-tk-dc{
+    text-align: center;
+    margin-top: 20px;
+    padding-right: 30px;
+}
+.link-dn{
+    margin-left: 10px;
+    font-weight:bold ;
+    text-decoration: none;
+    color: tomato;
+}
+
+
+
+
+
+
+
+
+
+
